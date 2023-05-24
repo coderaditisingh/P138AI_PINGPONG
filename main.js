@@ -61,7 +61,7 @@ function draw(){
    drawScore();
    
    //function models call  
-   models();
+   models();c
    
    //function move call which in very important
     move();
